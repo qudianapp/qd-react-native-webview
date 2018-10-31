@@ -1,6 +1,6 @@
 {
   "name": "@qudian_mobile/qd-react-native-webview",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "an more powerful react native webview",
   "main": "index.js",
   "scripts": {
