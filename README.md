@@ -3,11 +3,11 @@
 
 ## Getting started
 
-`$ npm install react-native-webviewplus --save`
+`$ npm install @qudian_mobile/qd-react-native-webview --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-webviewplus`
+`$ react-native link @qudian_mobile/qd-react-native-webview`
 
 ### Manual installation
 
@@ -30,7 +30,7 @@
 
 ## Usage
 ```javascript
-import RNWebviewplus from 'react-native-webviewplus';
+import RNWebviewplus from '@qudian_mobile/qd-react-native-webview';
 
 // TODO: What to do with the module?
 RNWebviewplus;
