@@ -1,0 +1,29 @@
+{
+  "name": "qd-react-native-webview",
+  "version": "0.1.0",
+  "description": "an more powerful react native webview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "webview"
+  ],
+  "author": {
+    "name": "Phoobobo",
+    "email": "phoobobo@163.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react-native": "^0.55.4"
+  },
+  "peerDependencies": {
+    "react-native": "^0.55.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qudianapp/qd-react-native-webview.git"
+  }
+}
